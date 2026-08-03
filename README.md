@@ -42,4 +42,3 @@ Windows'ta `run_flutter.bat` ile de çalıştırılabilir.
 ## Belgeler
 
 - [`PROJE_OZET.md`](PROJE_OZET.md) — mimari, modeller, servisler ve veri akışının detaylı açıklaması
-- [`rapor.pdf`](rapor.pdf) — proje raporu (IEEE formatı)
