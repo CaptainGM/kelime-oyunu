@@ -20,7 +20,6 @@
 ## **Framework:** Flutter
 ## **Dil:** Dart
 ## **Platformlar:** Android, iOS, Web, Windows, Linux, macOS
-## **Yazarlar:** Berat Batuhan Şahin & Emirhan Çalık
 ## **Üniversite:** Kocaeli Üniversitesi Bilgisayar Mühendisliği
 
 ### **Temel Oyun Konsepti:**
