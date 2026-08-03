@@ -2,6 +2,20 @@
 
 NxN harf tablosunda parmakla/sürükleyerek Türkçe kelimeler oluşturduğunuz, joker güçler ve özel yeteneklerle desteklenmiş bir kelime bulmaca oyunu.
 
+## Ekran Görüntüleri (gerçek cihazda çalışırken)
+
+| Oynanış — kelime oluşturma | Oynanış — joker kullanımı |
+|---|---|
+| ![Oynanış 1](oynanis-1.jpeg) | ![Oynanış 2](oynanis-2.jpeg) |
+
+| Skor Tablosu | Oyun Ayarları |
+|---|---|
+| ![Skor tablosu](skor-tablosu.jpeg) | ![Oyun ayarları](oyun-ayarlari.jpeg) |
+
+**Market:**
+
+![Market](market.jpeg)
+
 ## Özellikler
 
 - 2600 kelimelik Türkçe sözlük ile geçerlilik kontrolü
