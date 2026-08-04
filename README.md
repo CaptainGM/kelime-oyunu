@@ -16,6 +16,15 @@ NxN harf tablosunda parmakla/sürükleyerek Türkçe kelimeler oluşturduğunuz,
 
 ![Market](market.jpeg)
 
+## Mimari
+
+```mermaid
+flowchart LR
+    UI[Flutter Ekranları] --> SVC["Servisler (kelime, skor, joker)"]
+    SVC --> DB[(SQLite)]
+    SVC --> PREFS[SharedPreferences]
+```
+
 ## Özellikler
 
 - 2600 kelimelik Türkçe sözlük ile geçerlilik kontrolü
